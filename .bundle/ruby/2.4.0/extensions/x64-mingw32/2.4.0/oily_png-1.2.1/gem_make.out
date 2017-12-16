@@ -1,0 +1,21 @@
+current directory: c:/workspace/demostore/.bundle/ruby/2.4.0/gems/oily_png-1.2.1/ext/oily_png
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20171216-16668-jq4rpd.rb extconf.rb
+creating Makefile
+
+current directory: c:/workspace/demostore/.bundle/ruby/2.4.0/gems/oily_png-1.2.1/ext/oily_png
+make "DESTDIR=" clean
+
+current directory: c:/workspace/demostore/.bundle/ruby/2.4.0/gems/oily_png-1.2.1/ext/oily_png
+make "DESTDIR="
+generating oily_png-x64-mingw32.def
+compiling color.c
+compiling oily_png_ext.c
+compiling operations.c
+compiling png_decoding.c
+compiling png_encoding.c
+compiling resampling.c
+linking shared-object oily_png/oily_png.so
+
+current directory: c:/workspace/demostore/.bundle/ruby/2.4.0/gems/oily_png-1.2.1/ext/oily_png
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 oily_png.so ./.gem.20171216-16668-vpswxw/oily_png
